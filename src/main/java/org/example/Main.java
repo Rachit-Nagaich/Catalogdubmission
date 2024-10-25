@@ -88,7 +88,7 @@ public class Main {
             result = result.add(yi.multiply(li));
         }
 
-        return result.mod(BigInteger.TWO.pow(256)); e
+        return result.mod(BigInteger.TWO.pow(256));
     }
 
 }
